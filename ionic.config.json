@@ -1,0 +1,7 @@
+{
+  "name": "nettruyen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
